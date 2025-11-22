@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BrownPeril ^^
-- 👀 I’m interested in --- Go, Rock n' Roll(especially British), cute kitties & birds, 
-- 🌱 I’m currently learning --- something stupid (>_<)
-- 💞️ I’m looking to collaborate on --- money-earning projects 
+- 👀 I’m interested in --- Go, Rock n roll, birding 
+- 🌱 I’m currently learning --- SE (bachelor's degree 
+- 💞️ I’m looking to collaborate on --- interesting projects 
 - 📫 How to reach me --- 1970994558@qq.com (mostly)
-231250196@smail.nju.edu.cn (my school email address)
-cnzephyr97@gmail.com (I seldom log on it recently) 
+                          cnzephyr97@gmail.com (rarely checked) 
 
 <!---
 BrownPeril/BrownPeril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
